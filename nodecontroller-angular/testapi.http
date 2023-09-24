@@ -1,0 +1,11 @@
+
+// Get User requests
+GET http://localhost:2211/ang/v1/api/userCred/12
+GET http://localhost:2211/ang/v1/api/userCred/
+
+
+
+
+
+
+

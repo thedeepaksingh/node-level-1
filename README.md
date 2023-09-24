@@ -1,6 +1,21 @@
 # node-level-1
 
-adding all packages required
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// packages to be installed
 
 npm install express nodemon postgres
 added .env file ( npm i dotenv)
